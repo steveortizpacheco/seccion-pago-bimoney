@@ -128,6 +128,10 @@
 
 }
 @media only screen and (max-width: 865px) {
+  .espacio-logo{
+
+padding-left: 0px;
+}
   .li-nombre {
     padding: 9px 2px 9px 9px;
     font-size: 11px;
@@ -160,6 +164,56 @@
 
 }
 @media only screen and (max-width: 740px) {
+  .espacio-logo{
+
+padding-left: 0px;
+}
+
+
+
+.navbar .login-panel .btn {
+    margin: -2px;
+    border-radius: 0;
+    font-size: 14px;
+    /*padding: 0px 43px 0px 20px;*/
+    line-height: 59px;
+    color: #fff;
+
+}
+.btn-codigo{
+  background-color: #276095;
+  border-color: #20578a;
+
+
+}
+.icon{
+  font-size: 20px;
+  padding: 0 10px;
+  position: relative;
+  z-index: 2
+  
+  
+}
+.btn-refres{
+  background-color: #2497D4;
+  border-color: #208cc6;
+
+
+}
+.btn-salir{
+  background-color: #00c0ff;
+  border-color: #2acafe;
+
+
+}
+
+}
+@media only screen and (max-width: 579px) {
+.espacio-logo{
+padding-left: 0;
+}
+
+
 
 
 .navbar .login-panel .btn {
